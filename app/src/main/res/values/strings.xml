@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnimationLotteKotlin</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+</resources>
