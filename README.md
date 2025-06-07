@@ -70,7 +70,7 @@ Core logic for animation control, gesture response, and UI updates.
 A reusable class for gesture detection.
 
 ## Dependencies🛠
-Lottie for Android
+ [Lottie for Android](https://github.com/airbnb/lottie-android)
 
 #### implementation 'com.airbnb.android:lottie:6.1.0' // or latest
 
@@ -92,10 +92,11 @@ Lottie for Android
 * Customize the dots and counter UI in addBottomDots().
 
 ## References📚
-Lottie Animation Documentation
 
-GestureDetector Android Docs
+ [Lottie Animation Documentation](https://airbnb.io/lottie/#/)
+
+[GestureDetector Android Docs](https://developer.android.com/reference/android/view/GestureDetector)
 
 ## Author🧑‍💻
 ### Himanshu HC👤
- [LinkedIn🔗](#[features](https://www.linkedin.com/in/himanshuhc/))
+ [LinkedIn🔗](https://www.linkedin.com/in/himanshuhc/)
