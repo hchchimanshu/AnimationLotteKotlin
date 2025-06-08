@@ -13,7 +13,7 @@ This Android project demonstrates a smooth, interactive swipe-based navigation u
 💡 Handles edge cases and animation loops gracefully.
 
 ## Screenshots / Demo📱
-(Add demo GIFs or screenshots here if possible)
+uploading soon...
 
 ## How It Works🧩
 The animation flow is handled by alternating between:
